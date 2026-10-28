@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test1" group-title="Teszt",Teszt 1 – Apple HLS (bipbop)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="test2" group-title="Teszt",Teszt 2 – Mux HLS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="test3" group-title="Teszt",Teszt 3 – Akamai élő teszt (HLS)
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="test4" group-title="Teszt",Teszt 4 – Tears of Steel (Unified Streaming demo)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
